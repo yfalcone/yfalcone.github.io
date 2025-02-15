@@ -13,7 +13,7 @@ ERCx checks the conformance of a contract to [ERC (Ethereum Request for Comments
 To check a given contract, ERCx uses property tests: for the contract under test, we generate a tailored test suite, which is a collection of test cases. ERCx also relies on the [Foundry](https://github.com/foundry-rs) testing framework, a reliable and easy-to-setup tool that is widely used by developers and auditors.
 
 
-In collaboration with [Certora](https://www.certora.com/), we published a paper on our process to ensure the highest quality possible for the test suite.
-{% cite conf/icst/NicourtKNF24 %}
+In collaboration with [Certora](https://www.certora.com/), we published a paper on our process to ensure the highest quality possible for the test suite 
+{% cite conf/icst/NicourtKNF24 %}.
 
 [Link to the website](https://ercx.runtimeverification.com).
