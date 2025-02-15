@@ -24,15 +24,26 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a computer scientist with a passion for rigorous software engineering and ensuring software quality. I’ve dedicated myself to designing, implementing, and integrating methods and tools that guarantee safety and security using modeling and automated verification techniques.
+I am a computer scientist with a passion for rigorous software engineering, formal methods, and software quality assurance.
+My work focuses on designing, implementing, and integrating advanced techniques to ensure software safety and security through modeling and automated verification.
 
-I have significantly contributed to the software monitoring discipline through collaborations with esteemed institutions and colleagues worldwide. Notably, I have pioneered the theory of monitoring decentralized systems.
+A key part of my career has been dedicated to software monitoring, where I have made significant contributions, notably pioneering the theory of monitoring decentralized systems and developing techniques for the enforcement of timed properties at runtime.
 
-I enjoy solving complex problems and turning theoretical concepts into innovative solutions. I have published extensively in leading journals and conferences. 
-I enjoy sharing through teaching and mentoring the next generation of engineers.
+Beyond academia, I have provided consultancy services to companies through my own company, helping them improve the security, reliability, and compliance of their software and blockchain-based solutions.
 
-My current focus is to develop innovative solutions for safer and more interoperable blockchains.
-My latest project was [ERCx](https://ercx.runtimeverification.com), an automated tool for assessing the quality of token implentations on Ethereum.
+I also have an entrepreneurial background.
+In the early days of Android, I founded and led [MiDroid](/projects/midroid/), a project aimed at giving users greater security and control over their devices using monitoring-based techniques.
 
-I hold an Associate Professor position in Computer Science at [Univ. Grenoble Alpes](https://www.univ-grenoble-alpes.fr/english/).
+I have had the privilege of working alongside esteemed institutions and colleagues worldwide, contributing to both foundational research and practical applications.
+I thrive on solving complex problems and bridging the gap between theoretical concepts and real-world implementations.
+
+I have published extensively in leading journals and conferences.
+I take great satisfaction in mentoring and teaching the next generation of engineers.
+Sharing knowledge, fostering innovation, and enabling others to build upon strong foundations are central to my philosophy.
+
+My current focus is to develop cutting-edge solutions for safer and more interoperable blockchains.
+My latest project, [ERCx](/projects/ercx/), is an automated tool for assessing the quality of token implentations on Ethereum.
+It leverages Ethereum Improvement Proposals and security properties extracted from audits to establish rigorous compliance and security standards.
+
+I hold an Associate Professor position in Computer Science at [Univ. Grenoble Alpes](https://www.univ-grenoble-alpes.fr/english/), [&#x1F1EB;&#x1F1F7;](https://choosefrance.fr/en/).
 I am also a member of the [Inria Grenoble](https://www.inria.fr/en/inria-centre-university-grenoble-alpes) Corse research team and of the [Computer science lab of Grenoble](https://www.liglab.fr/en).
