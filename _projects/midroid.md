@@ -2,7 +2,7 @@
 layout: page
 title: MiDroid
 description: Using Monitoring on Android
-img: 
+img:
 importance: 1
 category: work
 related_publications: true
@@ -38,4 +38,3 @@ Below are some screen captures of the UI back then:
     />
 
 </div>
-

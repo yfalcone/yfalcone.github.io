@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: 
+  more_info:
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -41,11 +41,10 @@ I have had the privilege of working alongside esteemed institutions and colleagu
 I thrive on solving complex problems and bridging the gap between theoretical concepts and real-world implementations.
 
 I have published extensively in leading research journals and conferences (150+ papers) and a book for teaching automata theory to undergrads.
-My research has decent impact (over 4k citations, h-index  33, i-index 75).
+My research has decent impact (over 4k citations, h-index 33, i-index 75).
 I take great satisfaction in mentoring the next generation of engineers; I have mentored 11 Ph.D. students and numerous engineers.
 Sharing knowledge, fostering innovation, and enabling others to build upon strong foundations are central to my philosophy.
 
 My current focus is to develop cutting-edge solutions for safer and more interoperable blockchains.
 My latest project, [ERCx](/projects/ercx/), is an automated tool for assessing the quality of token implentations on Ethereum.
 It leverages Ethereum Improvement Proposals and security properties extracted from audits to establish rigorous compliance and security standards.
-
