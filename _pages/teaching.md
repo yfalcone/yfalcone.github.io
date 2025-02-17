@@ -76,10 +76,10 @@ Moreover, with the help of students following the course, we developped a teachi
 <p>I also gave invited lectures in other universities:</p>
 
 <ul>
-    <li>Universidad Pontifica Javeriana (Colombia): Intro to Model Checking</li>
+    <li>Pontificia Universidad Javeriana (Colombia): Intro to Model Checking</li>
     <li>University of Galatasaray (Turkey): Semantics of Programming Languages and Introduction to Runtime Verification</li>
-    <li>Polytechnique Yaoundé: Semantics of Programming Languages and Compiler Design</li>
-    <li>American University of Beirut: Introduction to Runtime Verification</li>
+    <li>Polytechnique Yaoundé (Cameroon): Semantics of Programming Languages and Compiler Design</li>
+    <li>American University of Beirut (Lebanon): Introduction to Runtime Verification</li>
 </ul>
 
 <p>I also co-supervised the first year of the International Master in Computer Science.</p>
