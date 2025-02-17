@@ -1,9 +1,9 @@
 ---
 layout: page
 title: MiDroid
-description: Using Monitoring on Android
+description: Leveraging Monitoring on Android
 img:
-importance: 1
+importance: 2
 category: work
 related_publications: true
 ---
