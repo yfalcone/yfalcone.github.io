@@ -42,7 +42,9 @@ With **over 4,000 citations**, an **h-index of 33**, and an **i-index of 75**, m
 I have received **3 Best Paper awards** for the publications I have contributed to.
 Furthermore, I take great satisfaction in **mentoring the next generation** of researchers and engineers.
 I have **supervised 11 Ph.D. students** and numerous master's students and engineers.
-Sharing knowledge, fostering innovation, and enabling others to build upon strong foundations are central to my philosophy.
+Sharing knowledge and enabling others to build upon strong foundations are central to my philosophy.
+I enjoyed serving the research and teaching communities of Grenoble by being an elected member of the Research Council, the Academic Council, my Laboratory council and a member of an educational board on cyberphysical systems.
+I served in several conference programme committees.  
 
 My current focus is on **developing solutions for safer and more interoperable blockchains**.
 My latest project, [ERCx](/projects/ercx/), is an automated tool for **assessing the quality of token implementations on Ethereum**.
