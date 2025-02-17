@@ -17,10 +17,12 @@ horizontal: false
     <li>Logic and Proof Techniques</li>
     <li>Object-oriented Design and Programming</li>
     <li>Runtime Verification</li>
-    <li>Research Project Introduction</li>
+    <li>Research Projects</li>
 </ul>
 
-<p>A book I co-authored and one I co-edited to support the teaching of automata theory and runtime verification.</p>
+<p>To support the teaching of automata theory and regular languages, I co-authored a teaching book with lectures notes, 150 exercises with their solutions.
+Moreover, with the help of students following the course, we developped a teaching software, Aude, which help them manipulate the concepts and run the underlying algorithms step by step.a
+</p>
 
 <!-- Container with Flexbox layout via inline styles -->
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 50px;">
@@ -33,6 +35,21 @@ horizontal: false
     />
   </a>
 
+  <a href="https://aude.imag.fr">
+    <img 
+      src="../assets/img/aude.jpg" 
+      alt="Aude, AUtomata DEmystifyer" 
+      title="Aude"
+      style="width: 230px; display: block; border: 1px solid #ccc; border-radius: 4px;"
+    />
+  </a>
+
+</div>
+<p></p>
+<p>To support the dissemination and teaching of the Runtime Verification principles, I created and led the creation of teaching material:
+
+<!-- Container with Flexbox layout via inline styles -->
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 50px;">
   <a href="https://link.springer.com/book/10.1007/978-3-319-75632-5">
     <img 
       src="../assets/img/lectures-on-runtime-verification.jpg" 
@@ -42,9 +59,19 @@ horizontal: false
     />
   </a>
 
-</div>
+  <a href="">
+    <img 
+      src="../assets/img/mindmap.png" 
+      alt="A taxonomy for Runtime Verification" 
+      title="A taxonomy for Runtime Verification"
+      style="width: 350px; display: block; border: 0px solid #ccc; border-radius: 4px;"
+    />
+  </a>
 
-<p>I also co-supervised the first year of the International Master in Computer Science.</p>
+</div>
+</p>
+<p></p>
+
 
 <p>I also gave invited lectures in other universities:</p>
 
@@ -54,3 +81,5 @@ horizontal: false
     <li>Polytechnique Yaoundé: Semantics of Programming Languages and Compiler Design</li>
     <li>American University of Beirut: Introduction to Runtime Verification</li>
 </ul>
+
+<p>I also co-supervised the first year of the International Master in Computer Science.</p>
