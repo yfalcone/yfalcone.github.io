@@ -9,19 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
-          title: "Publications",
-          description: "Publications in reversed chronological order.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
-        },{id: "nav-projects",
+  },{id: "nav-projects",
           title: "Projects",
           description: "A selection of some past software projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
+          },
+        },{id: "nav-publications",
+          title: "Publications",
+          description: "Publications in reversed chronological order.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications/";
           },
         },{id: "nav-teaching",
           title: "Teaching",
@@ -63,7 +63,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-decentmon",
+          section: "News",},{id: "projects-bism",
+          title: 'BISM',
+          description: "Binary Instrumentation for Software Monitoring",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/bism/";
+            },},{id: "projects-decentmon",
           title: 'DecentMon',
           description: "An OCaml Benchmark for Decentralized Monitoring",
           section: "Projects",handler: () => {
@@ -75,9 +80,14 @@ ninja.data = [{
               window.location.href = "/projects/ercx/";
             },},{id: "projects-midroid",
           title: 'MiDroid',
-          description: "Using Monitoring on Android",
+          description: "Leveraging Monitoring on Android",
           section: "Projects",handler: () => {
               window.location.href = "/projects/midroid/";
+            },},{id: "projects-themis",
+          title: 'THEMIS',
+          description: "A Benchmark for Evaluating Decentralised Monitoring Algorithms of Decentralised Specifications",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/themis/";
             },},{
         id: 'social-email',
         title: 'email',
