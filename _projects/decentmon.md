@@ -3,7 +3,7 @@ layout: page
 title: DecentMon
 description: An OCaml Benchmark for Decentralized Monitoring
 img:
-importance: 1
+importance: 2
 category: work
 related_publications: true
 ---
