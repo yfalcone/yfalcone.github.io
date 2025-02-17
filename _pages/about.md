@@ -24,27 +24,26 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I hold an Associate Professor position in Computer Science at [Univ. Grenoble Alpes](https://www.univ-grenoble-alpes.fr/english/), [&#x1F1EB;&#x1F1F7;](https://choosefrance.fr/en/).
-I am also a member of the [Inria Grenoble](https://www.inria.fr/en/inria-centre-university-grenoble-alpes) Corse research team and of the [Computer science lab of Grenoble](https://www.liglab.fr/en).
+I hold an **Associate Professor in Computer Science** at [Univ. Grenoble Alpes](https://www.univ-grenoble-alpes.fr/english/), [&#x1F1EB;&#x1F1F7;](https://choosefrance.fr/en/).
+I am also a member of the [Inria Grenoble](https://www.inria.fr/en/inria-centre-university-grenoble-alpes) Corse research team and the [Computer Science Laboratory of Grenoble](https://www.liglab.fr/en).
+My work focuses on **software engineering, formal methods, and software quality assurance**.
+I specialize in designing, implementing, and integrating advanced techniques to ensure **software safety and security** through **modeling and automated verification**.
 
-I am a computer scientist with a passion for rigorous software engineering, formal methods, and software quality assurance.
-My work focuses on designing, implementing, and integrating advanced techniques to ensure software safety and security through modeling and automated verification.
+A key part of my career has been dedicated to **software monitoring**, where I have made **significant contributions**.
+Notably, I **pioneered the theory of monitoring decentralized systems** and **developed techniques for enforcing timed properties at runtime**.
+Beyond academia, I have provided **consultancy services** through my own company, helping organizations **improve security, reliability, and compliance** in their software and blockchain-based solutions.
+I also have an **entrepreneurial background**.
+In the early days of Android, I **founded and led** [MiDroid](/projects/midroid/), a project aimed at **giving users greater security and control** over their devices using monitoring-based techniques.
 
-A key part of my career has been dedicated to software monitoring, where I have made significant contributions, notably pioneering the theory of monitoring decentralized systems and developing techniques for the enforcement of timed properties at runtime.
-
-Beyond academia, I have provided consultancy services to companies through my own company, helping them improve the security, reliability, and compliance of their software and blockchain-based solutions.
-
-I also have an entrepreneurial background.
-In the early days of Android, I founded and led [MiDroid](/projects/midroid/), a project aimed at giving users greater security and control over their devices using monitoring-based techniques.
-
-I have had the privilege of working alongside esteemed institutions and colleagues worldwide, contributing to both foundational research and practical applications.
-I thrive on solving complex problems and bridging the gap between theoretical concepts and real-world implementations.
-
-I have published extensively in leading research journals and conferences (150+ papers) and a book for teaching automata theory to undergrads.
-My research has decent impact (over 4k citations, h-index 33, i-index 75).
-I take great satisfaction in mentoring the next generation of engineers; I have mentored 11 Ph.D. students and numerous engineers.
+I have had the privilege of **collaborating with esteemed institutions and colleagues worldwide**, contributing to both **foundational research and real-world applications**.
+My research has been recognized, with **over 150 publications** in leading research journals and conferences.
+I have also published a **book on automata theory** for undergraduate students.
+With **over 4,000 citations**, an **h-index of 33**, and an **i-index of 75**, my work has had a **measurable impact**.
+I have received **3 Best Paper awards** for the publications I have contributed to.
+Furthermore, I take great satisfaction in **mentoring the next generation** of researchers and engineers.
+I have **supervised 11 Ph.D. students** and numerous master's students and engineers.
 Sharing knowledge, fostering innovation, and enabling others to build upon strong foundations are central to my philosophy.
 
-My current focus is to develop cutting-edge solutions for safer and more interoperable blockchains.
-My latest project, [ERCx](/projects/ercx/), is an automated tool for assessing the quality of token implentations on Ethereum.
-It leverages Ethereum Improvement Proposals and security properties extracted from audits to establish rigorous compliance and security standards.
+My current focus is on **developing solutions for safer and more interoperable blockchains**.
+My latest project, [ERCx](/projects/ercx/), is an automated tool for **assessing the quality of token implementations on Ethereum**.
+It leverages Ethereum Improvement Proposals and security properties extracted from audits, setting rigorous compliance and security standards in the blockchain ecosystem.
