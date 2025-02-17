@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 description: A selection of some past software projects.
 nav: true
-nav_order: 3
+nav_order: 2
 horizontal: false
 ---
 
