@@ -2,7 +2,7 @@
 layout: page
 title: BISM
 description: Binary Instrumentation for Software Monitoring
-img: 
+img:
 importance: 3
 category: work
 related_publications: true

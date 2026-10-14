@@ -18,15 +18,15 @@ There is no test suite. Verify changes by building or serving the site. `_site/`
 
 ## Architecture
 
-Site-wide settings (title, social/scholar config, plugin options, collections) live in [_config.yml](_config.yml). Content is split across several places:
+Site-wide settings (title, social/scholar config, plugin options, collections) live in [\_config.yml](_config.yml). Content is split across several places:
 
-- [_pages/](_pages/): top-level pages (about, publications, teaching, projects, 404). Front matter `permalink` and `nav`/`nav_order` control routing and the navbar. The about page is the home page (`permalink: /`).
-- [_projects/](_projects/): the `projects` collection (`output: true`, permalink `/projects/:title/`). Each file's front matter (`importance`, `category`, `img`, `related_publications`) controls ordering and grouping on the projects page. Some are still stubs ("Description to come.").
-- [_news/](_news/): the `news` collection. The announcements block is disabled in the about page front matter.
-- [_bibliography/papers.bib](_bibliography/papers.bib): the single source for the publications page, rendered by jekyll-scholar (APA style, author `Falcone, Yliès` highlighted). `related_publications: true` in a project's front matter pulls in the matching bib entries. Per-entry options (abstract, selected, venue badges) come from custom bib fields and [_data/venues.yml](_data/venues.yml) and [_data/coauthors.yml](_data/coauthors.yml).
-- [_data/](_data/): YAML data. `socials.yml` drives the social icons, `cv.yml` the CV page, `repositories.yml` the GitHub cards.
-- [_layouts/](_layouts/), [_includes/](_includes/), [_sass/](_sass/): theme templates and styles (Liquid, formatted with Prettier). Edit these only for structural or styling changes.
-- [_plugins/](_plugins/): local Ruby plugins (citation fetching from Google Scholar and InspireHEP, cache busting, bibtex hiding, 3rd-party asset download). The Scholar and Inspire plugins make network calls at build time.
+- [\_pages/](_pages/): top-level pages (about, publications, teaching, projects, 404). Front matter `permalink` and `nav`/`nav_order` control routing and the navbar. The about page is the home page (`permalink: /`).
+- [\_projects/](_projects/): the `projects` collection (`output: true`, permalink `/projects/:title/`). Each file's front matter (`importance`, `category`, `img`, `related_publications`) controls ordering and grouping on the projects page. Some are still stubs ("Description to come.").
+- [\_news/](_news/): the `news` collection. The announcements block is disabled in the about page front matter.
+- [\_bibliography/papers.bib](_bibliography/papers.bib): the single source for the publications page, rendered by jekyll-scholar (APA style, author `Falcone, Yliès` highlighted). `related_publications: true` in a project's front matter pulls in the matching bib entries. Per-entry options (abstract, selected, venue badges) come from custom bib fields and [\_data/venues.yml](_data/venues.yml) and [\_data/coauthors.yml](_data/coauthors.yml).
+- [\_data/](_data/): YAML data. `socials.yml` drives the social icons, `cv.yml` the CV page, `repositories.yml` the GitHub cards.
+- [\_layouts/](_layouts/), [\_includes/](_includes/), [\_sass/](_sass/): theme templates and styles (Liquid, formatted with Prettier). Edit these only for structural or styling changes.
+- [\_plugins/](_plugins/): local Ruby plugins (citation fetching from Google Scholar and InspireHEP, cache busting, bibtex hiding, 3rd-party asset download). The Scholar and Inspire plugins make network calls at build time.
 - [assets/](assets/): images (`assets/img`), PDFs (`assets/pdf`), JS and CSS.
 
 ## Deployment

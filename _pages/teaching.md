@@ -59,7 +59,7 @@ Moreover, with the help of students following the course, we developed a teachin
     />
   </a>
 
-  <img 
+<img 
     src="../assets/img/mindmap.png" 
     alt="A taxonomy for Runtime Verification" 
     title="A taxonomy for Runtime Verification"
@@ -68,7 +68,6 @@ Moreover, with the help of students following the course, we developed a teachin
 
 </div>
 <p></p>
-
 
 <p>I also gave invited lectures in other universities:</p>
 

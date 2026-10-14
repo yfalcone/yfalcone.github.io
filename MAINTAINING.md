@@ -13,17 +13,17 @@ git push       # push to main -> GitHub Actions builds and deploys
 
 ## Where to edit what
 
-| I want to...                  | Edit                                                                          |
-| ----------------------------- | ----------------------------------------------------------------------------- |
-| Change the home/about text    | `_pages/about.md`                                                             |
-| Change teaching               | `_pages/teaching.md`                                                          |
-| Add or edit a project         | `_projects/<name>.md` (`importance` sets the order, `img` the card image)     |
-| Add a publication             | `_bibliography/papers.bib` (a project shows its papers via `related_publications`) |
-| Change email/social links     | `_data/socials.yml`                                                           |
-| Change CV                     | `_data/cv.yml`                                                                |
-| Site title, nav, plugins      | `_config.yml`                                                                 |
-| Navbar order                  | `nav_order` in each `_pages/*.md` front matter                                |
-| Images / PDFs                 | `assets/img/`, `assets/pdf/`                                                  |
+| I want to...               | Edit                                                                               |
+| -------------------------- | ---------------------------------------------------------------------------------- |
+| Change the home/about text | `_pages/about.md`                                                                  |
+| Change teaching            | `_pages/teaching.md`                                                               |
+| Add or edit a project      | `_projects/<name>.md` (`importance` sets the order, `img` the card image)          |
+| Add a publication          | `_bibliography/papers.bib` (a project shows its papers via `related_publications`) |
+| Change email/social links  | `_data/socials.yml`                                                                |
+| Change CV                  | `_data/cv.yml`                                                                     |
+| Site title, nav, plugins   | `_config.yml`                                                                      |
+| Navbar order               | `nav_order` in each `_pages/*.md` front matter                                     |
+| Images / PDFs              | `assets/img/`, `assets/pdf/`                                                       |
 
 ## Gotchas
 

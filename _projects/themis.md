@@ -2,7 +2,7 @@
 layout: page
 title: THEMIS
 description: A Benchmark for Evaluating Decentralised Monitoring Algorithms of Decentralised Specifications
-img: 
+img:
 importance: 3
 category: work
 related_publications: true
