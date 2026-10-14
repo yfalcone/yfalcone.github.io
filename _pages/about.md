@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an **Associate Professor in Computer Science** at [Univ. Grenoble Alpes](https://www.univ-grenoble-alpes.fr/english/), [&#x1F1EB;&#x1F1F7;](https://choosefrance.fr/en/).
+I am an **Associate Professor in Computer Science** at [Univ. Grenoble Alpes](https://www.univ-grenoble-alpes.fr/en/), [&#x1F1EB;&#x1F1F7;](https://choosefrance.fr/en/).
 I am also a member of the [Inria Grenoble](https://www.inria.fr/en/inria-centre-university-grenoble-alpes) [Armadha](https://team.inria.fr/armadha/) research team and the [Computer Science Laboratory of Grenoble](https://www.liglab.fr/en).
 My work focuses on **software engineering, formal methods, and software quality assurance**.
 I specialize in designing, implementing, and integrating advanced techniques to ensure **software safety and security** through **modeling and automated verification**.
