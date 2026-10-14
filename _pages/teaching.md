@@ -21,7 +21,7 @@ horizontal: false
 </ul>
 
 <p>To support the teaching of automata theory and regular languages, I co-authored a teaching book with lectures notes, 150 exercises with their solutions.
-Moreover, with the help of students following the course, we developped a teaching software, Aude, which help them manipulate the concepts and run the underlying algorithms step by step.a
+Moreover, with the help of students following the course, we developed a teaching software, Aude, which helps them manipulate the concepts and run the underlying algorithms step by step.
 </p>
 
 <!-- Container with Flexbox layout via inline styles -->
@@ -46,7 +46,7 @@ Moreover, with the help of students following the course, we developped a teachi
 
 </div>
 <p></p>
-<p>To support the dissemination and teaching of the Runtime Verification principles, I created and led the creation of teaching material:
+<p>To support the dissemination and teaching of the Runtime Verification principles, I created and led the creation of teaching material:</p>
 
 <!-- Container with Flexbox layout via inline styles -->
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 50px;">
@@ -59,17 +59,14 @@ Moreover, with the help of students following the course, we developped a teachi
     />
   </a>
 
-  <a href="">
-    <img 
-      src="../assets/img/mindmap.png" 
-      alt="A taxonomy for Runtime Verification" 
-      title="A taxonomy for Runtime Verification"
-      style="width: 350px; display: block; border: 0px solid #ccc; border-radius: 4px;"
-    />
-  </a>
+  <img 
+    src="../assets/img/mindmap.png" 
+    alt="A taxonomy for Runtime Verification" 
+    title="A taxonomy for Runtime Verification"
+    style="width: 350px; display: block; border: 0px solid #ccc; border-radius: 4px;"
+  />
 
 </div>
-</p>
 <p></p>
 
 

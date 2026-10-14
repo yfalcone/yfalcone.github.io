@@ -11,7 +11,7 @@ related_publications: true
 MiDroid encompasses applications for 1) improving the security of Android applications 2) allowing users to gain control back of their Android devices (when fine-grained permissions did not exist).
 MiDroid uses aspect-oriented programming to modify and monitor the behavior of a given applications without knowing its source code.
 
-MiDroid was the foundational technology of an entreprenarial activity supported by Univ. Grenoble Alpes and Institut Carnot.
+MiDroid was the foundational technology of an entrepreneurial activity supported by Univ. Grenoble Alpes and Institut Carnot.
 
 MiDroid was also the underlying technology demonstrated in research publications:
 {% cite conf/rv/FalconeCJ12 %},
@@ -31,8 +31,8 @@ Below are some screen captures of the UI back then:
       style="width: 250px; display: block; border: 1px solid #ccc; border-radius: 4px;"
     />
     <img 
-      src="../assets/img/midroid1.png" 
-      alt="MiDroid screen capture 1" 
+      src="../assets/img/midroid2.png" 
+      alt="MiDroid screen capture 2" 
       title="MiDroid screen capture 2"
       style="width: 230px; display: block; border: 1px solid #ccc; border-radius: 4px;"
     />

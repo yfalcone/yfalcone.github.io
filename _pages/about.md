@@ -24,8 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I hold an **Associate Professor in Computer Science** at [Univ. Grenoble Alpes](https://www.univ-grenoble-alpes.fr/english/), [&#x1F1EB;&#x1F1F7;](https://choosefrance.fr/en/).
-I am also a member of the [Inria Grenoble](https://www.inria.fr/en/inria-centre-university-grenoble-alpes) Corse research team and the [Computer Science Laboratory of Grenoble](https://www.liglab.fr/en).
+I am an **Associate Professor in Computer Science** at [Univ. Grenoble Alpes](https://www.univ-grenoble-alpes.fr/english/), [&#x1F1EB;&#x1F1F7;](https://choosefrance.fr/en/).
+I am also a member of the [Inria Grenoble](https://www.inria.fr/en/inria-centre-university-grenoble-alpes) [Armadha](https://team.inria.fr/armadha/) research team and the [Computer Science Laboratory of Grenoble](https://www.liglab.fr/en).
 My work focuses on **software engineering, formal methods, and software quality assurance**.
 I specialize in designing, implementing, and integrating advanced techniques to ensure **software safety and security** through **modeling and automated verification**.
 
@@ -38,13 +38,13 @@ In the early days of Android, I **founded and led** [MiDroid](/projects/midroid/
 I have had the privilege of **collaborating with esteemed institutions and colleagues worldwide**, contributing to both **foundational research and real-world applications**.
 My research has been recognized, with **over 150 publications** in leading research journals and conferences.
 I have also published a **book on automata theory** for undergraduate students.
-With **over 4,000 citations**, an **h-index of 33**, and an **i-index of 75**, my work has had a **measurable impact**.
+With **over 4,000 citations**, an **h-index of 33**, and an **i10-index of 75**, my work has had a **measurable impact**.
 I have received **3 Best Paper awards** for the publications I have contributed to.
 Furthermore, I take great satisfaction in **mentoring the next generation** of researchers and engineers.
 I have **supervised 11 Ph.D. students** and numerous master's students and engineers.
 Sharing knowledge and enabling others to build upon strong foundations are central to my philosophy.
-I enjoyed serving the research and teaching communities of Grenoble by being an elected member of the Research Council, the Academic Council, my Laboratory council and a member of an educational board on cyberphysical systems.
-I served in several conference programme committees, co-organized and co-founded various scientific events. 
+I have served the research and teaching communities of Grenoble by being an elected member of the Research Council, the Academic Council, my Laboratory council and a member of an educational board on cyberphysical systems.
+I have served in several conference programme committees and co-organized and co-founded various scientific events.
 
 My current focus is on **developing solutions for safer and more interoperable blockchains**.
 My latest project, [ERCx](/projects/ercx/), is an automated tool for **assessing the quality of token implementations on Ethereum**.
