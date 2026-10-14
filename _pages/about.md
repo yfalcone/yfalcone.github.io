@@ -44,7 +44,7 @@ Furthermore, I take great satisfaction in **mentoring the next generation** of r
 I have **supervised 11 Ph.D. students** and numerous master's students and engineers.
 Sharing knowledge and enabling others to build upon strong foundations are central to my philosophy.
 I enjoyed serving the research and teaching communities of Grenoble by being an elected member of the Research Council, the Academic Council, my Laboratory council and a member of an educational board on cyberphysical systems.
-I served in several conference programme committees.  
+I served in several conference programme committees, co-organized and co-founded various scientific events. 
 
 My current focus is on **developing solutions for safer and more interoperable blockchains**.
 My latest project, [ERCx](/projects/ercx/), is an automated tool for **assessing the quality of token implementations on Ethereum**.
