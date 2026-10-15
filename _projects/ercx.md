@@ -14,5 +14,3 @@ To check a given contract, ERCx uses property tests: for the contract under test
 
 In collaboration with [Certora](https://www.certora.com/), we published a paper on our process to ensure the highest quality possible for the test suite
 {% cite conf/icst/NicourtKNF24 %}.
-
-[Link to the website](https://ercx.runtimeverification.com).
