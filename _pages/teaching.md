@@ -37,7 +37,7 @@ Moreover, with the help of students following the course, we developed a teachin
 
   <a href="https://aude.imag.fr">
     <img 
-      src="../assets/img/aude.jpg" 
+      src="../assets/img/aude.png" 
       alt="Aude, AUtomata DEmystifyer" 
       title="Aude"
       style="width: 230px; display: block; border: 1px solid #ccc; border-radius: 4px;"
